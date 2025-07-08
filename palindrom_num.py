@@ -1,3 +1,4 @@
+# 08/07/2025
 # using string 
 num = input("enter the number: ")
 if num == num[::-1]:
